@@ -31,5 +31,5 @@ CFLAGS="%{optflags}" %{__python} setup.py build
 %{python_sitearch}/lxml-*.egg-info
 
 %changelog
-* Sun Feb 11 2018 Taylor Kimball <tkimball@linuxhq.org - 4.1.1-1
+* Sun Feb 11 2018 Taylor Kimball <tkimball@linuxhq.org> - 4.1.1-1
 - Initial build.
